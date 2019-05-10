@@ -1,4 +1,4 @@
-# AO_withRationalNumbers
+# OO_withRationalNumbers
 
 Redefining Arithmetic/Relational Operators to use with Rational Numbers
 
