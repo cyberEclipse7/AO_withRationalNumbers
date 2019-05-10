@@ -1,4 +1,5 @@
 # AO_withRationalNumbers
-Using Arithmetic Operators with Rational Numbers
 
-Applying the concepts of Object Oriented Programming to add, subtract, divide, multiply, pre-increment and use post-increment operators with Rational Numbers.
+Redefining Arithmetic/Relational Operators to use with Rational Numbers
+
+Applying the concepts of Object Oriented Programming by redefining the operators to add, subtract, divide, multiply, pre-increment and post-increment objects of the classes.
